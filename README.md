@@ -7,3 +7,4 @@ Skills:
 3. Core JS
 4. Canva
 5. ChatGPT
+6. 6. Logical Thinking
